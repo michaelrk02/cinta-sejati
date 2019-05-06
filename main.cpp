@@ -1,4 +1,4 @@
-#if (__cplusplus >= 201311L)
+#if (__cplusplus >= 199711L)
 
 #include <iostream>
 #include <string>
