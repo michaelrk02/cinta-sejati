@@ -4,11 +4,11 @@ PT Pencari Cinta Sejati
 ## Dua tiga es degan, silahkan fork gan :D...
 
 ### Sang legenda pernah berkata:
-"Wasting time hanyalah membuang waktu"
+_"Wasting time hanyalah membuang waktu"_
 
-"Hidup hanya sekali, kalau dua kali namanya hidup hidup"
+_"Hidup hanya sekali, kalau dua kali namanya hidup hidup"_
 
-"Bersakit-sakit dahulu, masuk ICU kemudian"
+_"Bersakit-sakit dahulu, masuk ICU kemudian"_
 
 ### CMake Build Instructions
 > Create `build` directory and navigate to it
