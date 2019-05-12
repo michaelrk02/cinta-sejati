@@ -10,7 +10,7 @@ _"Hidup hanya sekali, kalau dua kali namanya hidup hidup"_
 
 _"Bersakit-sakit dahulu, masuk ICU kemudian"_
 
-### CMake Build Instructions
+### CMake build instructions
 > Create `build` directory and navigate to it
 
 > Run `cmake ..` command (requires CMake 3.0 or later)
